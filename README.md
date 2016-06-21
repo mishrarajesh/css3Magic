@@ -7,7 +7,8 @@ you can use it exactly the same way like you use the above mentioned jquery func
 eg:
 ~~~~~~~~~~~
 $('selector').cssSlideDown(1500, function () {
-// callback.
+// do things with the element using $(this).
+
 });
 
 1500 is here in milliseconds exactly as in jquery.
