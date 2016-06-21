@@ -1,4 +1,4 @@
-# css3Magic
+# css3Magic (v0.01)
 Using css3 to do things differently.
 I am trying to implement the slideUp, SlideDown,SlideToggle of jquery using css3.
 How to use:
