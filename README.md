@@ -17,6 +17,7 @@ dependency:
 Jquery library.
 http://jquery.com/download/
 
+Feel free to use in your projects. Don't foget to give your feedback or suggestions.
 
 
 
