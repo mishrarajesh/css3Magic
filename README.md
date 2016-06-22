@@ -4,6 +4,14 @@ I am trying to implement the slideUp, SlideDown,SlideToggle of jquery using css3
 How to use:
 
 you can use it exactly the same way like you use the above mentioned jquery functions.
+it has three functions:
+
+cssSlideDown
+
+cssSlideUp
+
+cssSlideToggle
+
 eg:
 ~~~~~~~~~~~
 $('selector').cssSlideDown(1500, function () {
